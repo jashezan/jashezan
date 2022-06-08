@@ -2,14 +2,15 @@
 <h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/jashezan/jashezan/main/src/gif/Hi.gif" width="30"></h1>
 </div>
 
-<div align="center" width="50">
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/jashezan/jashezan/main/src/svg/welcome-message.svg" alt="Welcome!" width="500"/>
-
 </div>
 
-<div size='20px'> Hi! My name is Shezan. Thank You for taking the time to view my GitHub Profile :smile: 
+<br>
+
+<div size='20px'> Hi! My name is Shezan. I am a computer science and engineering student. I work in the Web Development sector and the Cyber Security fields. Thank you for taking the time to view my GitHub profile. :smile: 
 </div>
+<br>
 
 <p align="left"> <a href="https://twitter.com/jashezan" target="blank"><img src="https://img.shields.io/twitter/follow/jashezan?logo=twitter&style=for-the-badge" alt="jashezan" /></a> </p>
 
@@ -127,7 +128,8 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
+<details>
+<summary align="center">:octocat: Statistical Data :octocat:</summary>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=jashezan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="jashezan" 
@@ -141,7 +143,8 @@
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jashezan&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="jashezan" /></p>
-      
+
+</details>
 <br> <br>
 
 <details>
