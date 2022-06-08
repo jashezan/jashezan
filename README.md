@@ -131,18 +131,18 @@
 <details>
 <summary align="center">:octocat: Statistical Data :octocat:</summary>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=jashezan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashezan&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"
     alt="jashezan" 
-    bg_color=#808080/></p>
+    /></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jashezan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jashezan&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"
     alt="jashezan" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jashezan&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="jashezan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jashezan&count_private=true&show_icons=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="jashezan" /></p>
 
 </details>
 <br> <br>
