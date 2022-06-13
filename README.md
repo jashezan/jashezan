@@ -22,7 +22,7 @@
 - 💬 Ask me about JavaScript, Python, Web Development
 - 👨‍💻 All of my projects are available at [https://jashezan.github.io/](https://jashezan.github.io/)
 
-- ⚡ Fun fact: Me gustan los girasoles[.](https://translate.google.com/?sl=auto&tl=en&text=me%20gustan%20los%20girasoles&op=translate&hl=en)
+- ⚡ Fun fact: **Team Rocket's dedication to catch Pikachu is more than that of Robert Bruce to get back his kingdom**
 
 <br> 
 <div align="center" width="50">
