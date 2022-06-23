@@ -151,7 +151,7 @@
 
 <details>
 <summary align="center">:trophy: Trophies :trophy:</summary>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jashezan&amp;theme=dracula" alt="jashezan" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jashezan&amp;theme=radical" alt="jashezan" /></a> </p>
 </details>
 
 [Jubyer Ahmed Shezan](https://github.com/jashezan)
