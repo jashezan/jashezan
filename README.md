@@ -128,6 +128,7 @@
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 <br>
+<br>
 
 <details>
 <summary align="center">:octocat: Statistical Data :octocat:</summary>
