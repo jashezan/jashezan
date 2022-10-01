@@ -130,8 +130,9 @@
 <br>
 <br>
 
-<details>
-<summary align="center">:octocat: Statistical Data :octocat:</summary>
+<section>
+<h3 align="center">:octocat: Statistical Data :octocat:</h3>
+<br>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashezan&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"
     alt="jashezan" 
@@ -146,9 +147,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jashezan&count_private=true&show_icons=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="jashezan" /></p>
 
-</details>
+</section>
 
-<br>
+<br><br>
 
 <details>
 <summary align="center">:trophy: Trophies :trophy:</summary>
@@ -156,6 +157,6 @@
 </details>
 
 <br>
-<br>
+
 
 [Jubyer Ahmed Shezan](https://github.com/jashezan)
