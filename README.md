@@ -17,7 +17,7 @@
 <h2> About Me </h2>
 
 - 🔭 I’m currently working on Web based Application
-- 🌱 I’m currently learning Django, MongoDB
+- 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Open Source Project
 - 💬 Ask me about JavaScript, Python, Web Development
 - 👨‍💻 All of my projects are available at [https://jashezan.netlify.app](https://jashezan.netlify.app)
