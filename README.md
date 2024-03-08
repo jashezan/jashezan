@@ -22,7 +22,7 @@
 - 💬 Ask me about JavaScript, Python, Web Development
 - 👨‍💻 All of my projects are available at [https://jashezan.netlify.app](https://jashezan.netlify.app)
 
-- ⚡ Fun fact: **Team Rocket's dedication (Pikachu) >> Robert Bruce (His Kingdom)**
+- ⚡ Fun fact: ***Team Rocket's dedication (Pikachu) >> Robert Bruce (His Kingdom)***
 
 <br> 
 <div align="center" width="50">
